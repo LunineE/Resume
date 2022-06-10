@@ -18,7 +18,7 @@
 ## 프로젝트
 * 유니티
   * 2인협동퍼즐게임 [Electro Adventur](https://github.com/Vioeon/CapstoneDesign)
-  * ![170236001-ee510f02-f357-429a-8699-7160aa799af1](https://user-images.githubusercontent.com/31840446/173162891-4c179e3d-7162-4e66-a3ae-7e9b96fbdd6a.jpg)
+  ![170236001-ee510f02-f357-429a-8699-7160aa799af1](https://user-images.githubusercontent.com/31840446/173162891-4c179e3d-7162-4e66-a3ae-7e9b96fbdd6a.jpg)
     * 개요 : 컴퓨터를 사용하지만 정작 컴퓨터 속 부품을 모르는 사람들을 위해 퍼즐 게임을 하면서 컴퓨터 속 부품을 쉽게 알 수 있도록 만든 2인 협동 퍼즐 게임
     * 제작인원 : 4명
     * 담당파트 : 퍼즐구현에 대한 전반적인 부분
